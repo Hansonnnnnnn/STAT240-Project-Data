@@ -1,0 +1,65 @@
+"student_name","student_id","date","month","duration_minutes","hourly_rate","total_income","topic_covered","homework_assigned","student_performance","notes","next_plan"
+"V&C",1,2025-09-28,"2025-09",60,60,60,"geometry","none",7,"Chapter 3 is almost finished, and we will move on to Chapter 4 next.","Finish Chapter 3 and begin Chapter 4."
+"Nini",3,2025-09-26,"2025-09",60,35,35,"precalculus",NA,10,NA,NA
+"Nini",3,2025-09-27,"2025-09",45,35,26.25,"precalculus",NA,10,NA,NA
+"V&C",1,2025-09-22,"2025-09",60,0,0,"Geometry (trial session)","1.1 1.2",10,NA,NA
+"V&C",1,2025-09-23,"2025-09",90,60,90,"geometry",NA,10,NA,NA
+"V&C",1,2025-09-25,"2025-09",60,60,60,"geometry",NA,10,NA,NA
+"V&C",1,2025-09-29,"2025-09",60,60,60,"geometry",NA,10,NA,NA
+"Iris",4,2025-09-26,"2025-09",60,0,0,"Trial session",NA,10,NA,NA
+"Bruce",5,2025-09-01,"2025-09",60,25,25,"algebra",NA,10,NA,NA
+"Bruce",5,2025-09-09,"2025-09",60,25,25,"algebra",NA,10,NA,NA
+"Bruce",5,2025-09-11,"2025-09",60,25,25,"algebra",NA,10,NA,NA
+"Bruce",5,2025-09-15,"2025-09",60,25,25,"algebra",NA,10,NA,NA
+"Bruce",5,2025-09-18,"2025-09",60,25,25,"algebra",NA,10,NA,NA
+"Iris",4,2025-09-30,"2025-09",60,60,60,"calculus",NA,10,NA,"Just finished the definition of continuity; continue next session."
+"Don",6,2025-10-01,"2025-10",75,30,37.5,"geometry","none",6,"Just finished Chapter 1.",NA
+"V&C",1,2025-10-01,"2025-10",60,60,60,"geometry","none",10,"Reached Section 4.4.",NA
+"Ethan",2,2025-10-01,"2025-10",60,25,25,"algebra",NA,6,"Covered Chapter 6.","Continue the lesson."
+"Allen",7,2025-10-02,"2025-10",60,60,60,"calculus for finance",NA,8,"The student’s foundation is not solid and needs reinforcement.","Exam preparation."
+"Claire",8,2025-10-02,"2025-10",120,60,120,"linear algebra",NA,8,"Paid (WeChat).",NA
+"Allen",7,2025-10-03,"2025-10",90,60,90,"calculus for finance",NA,1,NA,NA
+"Nicky",9,2025-10-03,"2025-10",60,0,0,"Calculus",NA,10,"Free trial session.",NA
+"Emma",10,2025-10-04,"2025-10",60,0,0,"Set Theory",NA,10,"Free trial session.",NA
+"Hope",11,2025-10-04,"2025-10",60,35,35,"Calculus AB",NA,10,NA,NA
+"V&C",1,2025-10-04,"2025-10",60,60,60,"geometry",NA,10,NA,NA
+"Nini",3,2025-10-04,"2025-10",75,35,43.75,"precalculus",NA,8,NA,NA
+"V&C",1,2025-10-05,"2025-10",45,60,45,"geometry",NA,10,NA,NA
+"Iris",4,2025-10-07,"2025-10",60,60,60,"calculus",NA,10,NA,NA
+"Don",6,2025-10-08,"2025-10",60,30,30,"HSPT",NA,10,NA,NA
+"V&C",1,2025-10-08,"2025-10",60,60,60,"geometry",NA,10,NA,NA
+"Ethan",2,2025-10-08,"2025-10",60,25,25,"algebra",NA,10,NA,NA
+"V&C",1,2025-10-10,"2025-10",60,60,60,"geometry",NA,10,NA,NA
+"Ethan",2,2025-10-10,"2025-10",60,25,25,"algebra",NA,10,NA,NA
+"Emma",10,2025-10-11,"2025-10",75,30,37.5,"Algebra",NA,10,"15% discount.",NA
+"Nini",3,2025-10-13,"2025-10",75,35,43.75,"precalculus",NA,10,NA,NA
+"Iris",4,2025-10-14,"2025-10",60,60,60,"calculus",NA,10,NA,NA
+"Hope",11,2025-10-15,"2025-10",60,35,35,"Calculus AB",NA,10,NA,NA
+"V&C",1,2025-10-15,"2025-10",60,60,60,"geometry",NA,10,NA,NA
+"Ethan",2,2025-10-15,"2025-10",60,25,25,"algebra",NA,10,NA,NA
+"Nini",3,2025-10-16,"2025-10",60,35,35,"precalculus",NA,10,NA,NA
+"Don",6,2025-10-16,"2025-10",60,30,30,"HSPT & Algebra",NA,10,NA,NA
+"Nicky",9,2025-10-17,"2025-10",90,60,90,"Calculus",NA,10,NA,NA
+"V&C",1,2025-10-17,"2025-10",60,60,60,"geometry",NA,10,NA,NA
+"Emma",10,2025-10-18,"2025-10",60,30,30,"Algebra",NA,10,NA,NA
+"V&C",1,2025-10-20,"2025-10",60,60,60,"geometry",NA,10,NA,NA
+"Iris",4,2025-10-21,"2025-10",90,60,90,"calculus",NA,10,NA,NA
+"Don",6,2025-10-21,"2025-10",60,30,30,"HSPT",NA,10,NA,NA
+"V&C",1,2025-10-22,"2025-10",60,60,60,"geometry",NA,10,NA,NA
+"Ethan",2,2025-10-22,"2025-10",60,25,25,"algebra",NA,10,NA,NA
+"V&C",1,2025-10-24,"2025-10",60,60,60,"geometry",NA,10,NA,NA
+"Ethan",2,2025-10-24,"2025-10",60,25,25,"algebra",NA,10,NA,NA
+"Emma",10,2025-10-25,"2025-10",60,30,30,"Algebra",NA,10,NA,NA
+"Hope",11,2025-10-25,"2025-10",60,35,35,"Calculus AB",NA,10,NA,NA
+"Nini",3,2025-10-25,"2025-10",60,35,35,"precalculus",NA,10,NA,NA
+"Emma",10,2025-10-26,"2025-10",60,30,30,"Test Prep",NA,10,NA,NA
+"Gina",12,2025-10-26,"2025-10",60,22.5,22.5,"Precalculus",NA,10,"50% discount for trial session.",NA
+"Gina",12,2025-10-26,"2025-10",60,45,45,"Precalculus",NA,10,NA,NA
+"V&C",1,2025-10-27,"2025-10",60,60,60,"geometry",NA,10,NA,NA
+"Nini",3,2025-10-28,"2025-10",135,35,78.75,"exam prep",NA,10,NA,NA
+"Iris",4,2025-10-28,"2025-10",90,60,90,"calculus",NA,10,NA,NA
+"Gina",12,2025-10-28,"2025-10",120,45,90,"Precalculus",NA,10,NA,NA
+"Don",6,2025-10-29,"2025-10",60,30,30,"algebra",NA,10,NA,NA
+"V&C",1,2025-10-29,"2025-10",60,45,45,"geometry",NA,10,"First half of session taught only Christy; applied discount.",NA
+"Ethan",2,2025-10-29,"2025-10",60,25,25,"geometry",NA,10,NA,NA
+"Gina",12,2025-10-30,"2025-10",90,45,67.5,"Precalculus",NA,10,NA,NA
